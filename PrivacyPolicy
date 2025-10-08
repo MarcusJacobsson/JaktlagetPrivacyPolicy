@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy | [Your App Name]</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 40px auto;
+      max-width: 800px;
+      line-height: 1.6;
+      color: #333;
+      background-color: #fff;
+      padding: 0 20px;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 1.5em;
+    }
+    a {
+      color: #0078d7;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #ccc;
+      margin: 2em 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <p><strong>Effective Date:</strong> [Insert Date]</p>
+
+  <p><strong>[Your App Name]</strong> (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application (“App”).</p>
+
+  <hr>
+
+  <h2>1. Information We Collect</h2>
+
+  <h3>a. Account Information</h3>
+  <p>
+    The App requires users to sign in using <strong>Google’s Firebase Authentication</strong> service.
+    When you create or log into your account, your authentication details (such as your email address or Google account ID) are handled securely by Google’s servers — not by this App directly.
+    We do not store or manage any account credentials within the App itself.
+  </p>
+
+  <h3>b. Hunting Team Information</h3>
+  <p>
+    The App allows you to optionally save information about hunting team members, such as:
+  </p>
+  <ul>
+    <li>Names</li>
+    <li>Email addresses</li>
+    <li>Telephone numbers</li>
+  </ul>
+  <p>
+    This information is entered voluntarily and stored securely in a <strong>Firebase database</strong>,
+    which is hosted and managed by <strong>Google</strong>.
+  </p>
+
+  <hr>
+
+  <h2>2. How We Use the Information</h2>
+  <p>
+    The information you provide is used solely to:
+  </p>
+  <ul>
+    <li>Enable account access and authentication</li>
+    <li>Display and manage your hunting team information within the App</li>
+  </ul>
+  <p>
+    We do <strong>not</strong> use this data for advertising, analytics, or any unrelated purposes.
+  </p>
+
+  <hr>
+
+  <h2>3. Data Storage and Security</h2>
+  <p>
+    All user-related data (account and team information) is stored using <strong>Google Firebase services</strong>, which implement strong industry-standard security measures.
+    No user data is stored locally on your device beyond temporary cache or standard app data.
+    We rely on Google’s secure infrastructure to protect your information against unauthorized access or disclosure.
+  </p>
+
+  <hr>
+
+  <h2>4. Data Sharing and Disclosure</h2>
+  <p>
+    We do <strong>not</strong> sell, rent, or share your personal information with third parties.
+    However, your data may be accessible to Google as part of their Firebase and Authentication service operations, under Google’s own privacy policies.
+  </p>
+  <p>
+    For more details, please review:
+  </p>
+  <ul>
+    <li><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Privacy and Security</a></li>
+    <li><a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></li>
+  </ul>
+
+  <hr>
+
+  <h2>5. Data Retention and Deletion</h2>
+  <p>
+    You may delete your account or data at any time by using the relevant options within the App or by contacting us directly.
+    Deleting your account will remove associated data from our Firebase database.
+  </p>
+
+  <hr>
+
+  <h2>6. Children’s Privacy</h2>
+  <p>
+    The App is not directed to children under 13.
+    We do not knowingly collect personal data from children. If you believe we have inadvertently collected such data,
+    please contact us, and we will take steps to remove it.
+  </p>
+
+  <hr>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>
+    We may update this Privacy Policy from time to time.
+    All updates will be posted in this document with a revised “Effective Date” at the top.
+  </p>
+
+  <hr>
+
+  <h2>8. Contact Us</h2>
+  <p>
+    If you have any questions or concerns about this Privacy Policy, please contact us at:<br>
+    📧 <a href="mailto:[Your Email Address]">[Your Email Address]</a>
+  </p>
+
+  <hr>
+
+  <p style="text-align:center; font-size:0.9em; color:#777;">
+    &copy; [Year] [Your App Name]. All rights reserved.
+  </p>
+</body>
+</html>
