@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy | [Your App Name]</title>
+  <title>Privacy Policy | Jaktlaget</title>
   <style>
     body {
       font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -38,9 +38,9 @@
 <body>
   <h1>Privacy Policy</h1>
 
-  <p><strong>Effective Date:</strong> [Insert Date]</p>
+  <p><strong>Effective Date:</strong> October 8, 2025</p>
 
-  <p><strong>[Your App Name]</strong> (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application (“App”).</p>
+  <p><strong>Jaktlaget</strong> (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application (“App”).</p>
 
   <hr>
 
@@ -132,16 +132,8 @@
 
   <hr>
 
-  <h2>8. Contact Us</h2>
-  <p>
-    If you have any questions or concerns about this Privacy Policy, please contact us at:<br>
-    📧 <a href="mailto:[Your Email Address]">[Your Email Address]</a>
-  </p>
-
-  <hr>
-
   <p style="text-align:center; font-size:0.9em; color:#777;">
-    &copy; [Year] [Your App Name]. All rights reserved.
+    &copy; 2025 Jaktlaget. All rights reserved.
   </p>
 </body>
 </html>
